@@ -1,4 +1,3 @@
-![IT Minds](images/logo.png)
 
 This test includes 8 assignments, which we want you to solve!
 
@@ -16,6 +15,3 @@ Good luck, and happy coding!
 For a C# solution, .net Framework (4.6.1) and Visual Studio 2015 is necessary.
 
 For a Java solution, Java 8 is required.
-
-# How do I download the test?
-You can download the project either by cloning this git repository, or by pressing the shiny ![Downloads](images/downloads.png) button in the left pane, and selecting ![Download Repository](images/download_rep.png)
